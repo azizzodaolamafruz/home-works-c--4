@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C#\week 2\day 3\class task\bin\Debug\net10.0\class task.exe
+C:\Users\Admin\Desktop\C#\week 2\day 3\class task\bin\Debug\net10.0\class task.deps.json
+C:\Users\Admin\Desktop\C#\week 2\day 3\class task\bin\Debug\net10.0\class task.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\week 2\day 3\class task\bin\Debug\net10.0\class task.dll
+C:\Users\Admin\Desktop\C#\week 2\day 3\class task\bin\Debug\net10.0\class task.pdb
+C:\Users\Admin\Desktop\C#\week 2\day 3\class task\obj\Debug\net10.0\class task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\week 2\day 3\class task\obj\Debug\net10.0\class task.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\week 2\day 3\class task\obj\Debug\net10.0\class task.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\week 2\day 3\class task\obj\Debug\net10.0\class task.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\week 2\day 3\class task\obj\Debug\net10.0\class task.dll
+C:\Users\Admin\Desktop\C#\week 2\day 3\class task\obj\Debug\net10.0\refint\class task.dll
+C:\Users\Admin\Desktop\C#\week 2\day 3\class task\obj\Debug\net10.0\class task.pdb
+C:\Users\Admin\Desktop\C#\week 2\day 3\class task\obj\Debug\net10.0\class task.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\week 2\day 3\class task\obj\Debug\net10.0\ref\class task.dll
